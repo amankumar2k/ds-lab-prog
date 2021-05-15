@@ -1,5 +1,5 @@
 /* Design, Develop and Implement a menu driven Program in C for the
-following operations on STACK of Integers,                                                                               (Array Implementation of Stack with maximum size MAX).
+following operations on STACK of Integers,(Array Implementation of Stack with maximum size MAX).
 
 a. Push an Element on to Stack.
 b. Pop an Element from Stack.
@@ -12,8 +12,8 @@ ALGORITHM:
 Step 1: Start.
 Step 2: Initialize stack size MAX and top of stack -1.
 Step 3: Push integer element on to stack and display the contents of the stack. if stack is full.
-give a message as „Stack is Overflow?.
-Step 4: Pop element from stack along with display the stack contents. if stack is empty give a message as „Stack is Underflow?.
+give a message as â€žStack is Overflow?.
+Step 4: Pop element from stack along with display the stack contents. if stack is empty give a message as â€žStack is Underflow?.
 Step 5: Check whether the stack contents are Palindrome or not.
 Step 6: Stop. 
 */
