@@ -1,10 +1,21 @@
-/* 1.Design, Develop and Implement a menu driven Program in C for the following
+/*  1.Design, Develop and Implement a menu driven Program in C for the following
 Array operations.
 a. Creating an Array of N Integer Elements.
 b. Display of Array Elements with Suitable Headings.
 c. Inserting an Element (ELEM) at a given valid Position (POS).
 d. Deleting an Element at a given valid Position(POS).
-e. Exit.   */
+e. Exit. 
+
+ALGORITHM:
+Step 1: Start.
+Step 2: Read N value.
+Step 3: Read Array of N integer elements.
+Step 4: Print array of N integer elements.
+Step 5: Insert an element at given valid position in an array.
+Step 6: Delete an element at given valid position from an array.
+Step 7: Stop. 
+
+*/
 
 #include<stdio.h>
 #include<stdlib.h>
