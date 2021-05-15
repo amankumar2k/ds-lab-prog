@@ -5,7 +5,17 @@ on Strings.
 a. Read a main String (STR), a Pattern String (PAT) and a Replace String (REP).
 b. Perform Pattern Matching Operation: Find and Replace all occurrences of
 PAT in STR with REP if PAT exists in STR. Report suitable messages in case
-PAT does not exist in STR.    */
+PAT does not exist in STR.   
+
+ALGORITHM:
+Step 1: Start.
+Step 2: Read main string STR, pattern string PAT and replace string REP.
+Step 3: Search / find the pattern string PAT in the main string STR.
+Step 4: if PAT is found then replace all occurrences of PAT in main string STR with REP
+string.
+Step 5: if PAT is not found give a suitable error message.
+Step 6: Stop. 
+*/
 
 
 #include<stdio.h>
